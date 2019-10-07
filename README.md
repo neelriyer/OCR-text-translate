@@ -7,4 +7,4 @@ Detects text in real time and translate this text to english
 - Currently works for german to english translation
 
 # Demo
-![gif](output.gif)
+![gif](output_1.gif)
