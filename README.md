@@ -8,3 +8,6 @@ Detects text in real time and translate this text to english
 
 # Demo
 ![gif](output.gif| width=300)
+<img src="https://github.com/spiyer99/OCR-text-translate/edit/master/output.gif" height="24" width="48">
+
+
