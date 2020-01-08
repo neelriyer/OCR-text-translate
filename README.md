@@ -7,6 +7,7 @@ Detects text in real time and translate this text to english
 - Currently works for german to english translation
 
 # Demo
+(loading...)
 ![gif](output.gif)
 <img src="https://github.com/spiyer99/OCR-text-translate/master/output.gif" height="24" width="48">
 
